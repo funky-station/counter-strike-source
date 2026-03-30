@@ -2,4 +2,4 @@
 
 Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology. 
 
-Forked from Macrocosm. Go check it out.
+Forked from [Macrocosm](https://github.com/syndicate-ss14/macrocosm). Go check it out.
